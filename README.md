@@ -1,5 +1,4 @@
 ##
-grinding..
 
 hi. bye.
 
