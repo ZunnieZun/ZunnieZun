@@ -7,6 +7,7 @@ hi. hello. hey.
 <img width="890" height="300" alt="copyImage" src="https://github.com/user-attachments/assets/14d8aea7-0a16-4203-a5e8-6e812707a334" />
 
 safe server: library
+
 other servers: main map / island map
 
 bye. goodbye. im off chump–
